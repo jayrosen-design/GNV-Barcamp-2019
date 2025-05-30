@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15557691.svg)](https://doi.org/10.5281/zenodo.15557691)
+
 # Light Art & Mirror Visionwear - Gainesville Barcamp 2019 Artist Talk
 
 This presentation explores my artistic journey with light, reflection, and wearable art, culminating in the Mirror Visionwear project, as presented at Gainesville Barcamp in 2019.
